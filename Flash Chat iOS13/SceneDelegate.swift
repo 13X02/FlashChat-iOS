@@ -1,6 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Flash Chat 
+//  Flash Chat iOS13
+//
+
 
 import UIKit
 
